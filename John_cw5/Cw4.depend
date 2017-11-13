@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1509968825 source:d:\grzegorzbielski\cw4-master\analizator.cpp
+	"Analizator.HPP"
+	<iostream>
+	<string>
+
+1509968741 d:\grzegorzbielski\cw4-master\analizator.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1509968898 d:\grzegorzbielski\cw4-master\sygnal.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Probka.HPP"
+
+1509969335 d:\grzegorzbielski\cw4-master\probka.hpp
+	<iostream>
+	<string>
+
+1509969085 source:d:\grzegorzbielski\cw4-master\loader.cpp
+	"Loader.HPP"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1509968100 d:\grzegorzbielski\cw4-master\loader.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1509969201 source:d:\grzegorzbielski\cw4-master\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"Probka.HPP"
+	"Analizator.HPP"
+	"Loader.HPP"
+	"Sygnal.HPP"
+
+1509969354 source:d:\grzegorzbielski\cw4-master\probka.cpp
+	"Probka.HPP"
+	<iostream>
+	<string>
+
+1509970955 source:d:\grzegorzbielski\cw4-master\john_cw5\analizator.cpp
+	"Analizator.HPP"
+	<iostream>
+	<string>
+
+1509968741 d:\grzegorzbielski\cw4-master\john_cw5\analizator.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1509968898 d:\grzegorzbielski\cw4-master\john_cw5\sygnal.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Probka.HPP"
+
+1509969335 d:\grzegorzbielski\cw4-master\john_cw5\probka.hpp
+	<iostream>
+	<string>
+
+1509970693 source:d:\grzegorzbielski\cw4-master\john_cw5\loader.cpp
+	"Loader.HPP"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1509968100 d:\grzegorzbielski\cw4-master\john_cw5\loader.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1509970758 source:d:\grzegorzbielski\cw4-master\john_cw5\probka.cpp
+	"Probka.HPP"
+	<iostream>
+	<string>
+
+1509969458 source:d:\grzegorzbielski\cw4-master\john_cw5\sygnal.cpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1509970656 source:d:\grzegorzbielski\cw4-master\john_cw5\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"Probka.HPP"
+	"Analizator.HPP"
+	"Loader.HPP"
+	"Sygnal.HPP"
+
+1510572006 source:d:\grzegorzbielski\github\john_cw5-master\analizator.cpp
+	"Analizator.HPP"
+	<iostream>
+	<string>
+
+1510572007 d:\grzegorzbielski\github\john_cw5-master\analizator.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1510572007 d:\grzegorzbielski\github\john_cw5-master\sygnal.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Probka.HPP"
+
+1510572007 d:\grzegorzbielski\github\john_cw5-master\probka.hpp
+	<iostream>
+	<string>
+
+1510572007 source:d:\grzegorzbielski\github\john_cw5-master\loader.cpp
+	"Loader.HPP"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1510572007 d:\grzegorzbielski\github\john_cw5-master\loader.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1510572007 source:d:\grzegorzbielski\github\john_cw5-master\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"Probka.HPP"
+	"Analizator.HPP"
+	"Loader.HPP"
+	"Sygnal.HPP"
+
+1510572007 source:d:\grzegorzbielski\github\john_cw5-master\probka.cpp
+	"Probka.HPP"
+	<iostream>
+	<string>
+
+1510572007 source:d:\grzegorzbielski\github\john_cw5-master\sygnal.cpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1510585686 source:d:\adam_zuk\cwiczeni5\john_cw5\analizator.cpp
+	"Analizator.HPP"
+	<iostream>
+	<string>
+
+1510585915 d:\adam_zuk\cwiczeni5\john_cw5\analizator.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1510585915 d:\adam_zuk\cwiczeni5\john_cw5\sygnal.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Probka.HPP"
+
+1510585915 d:\adam_zuk\cwiczeni5\john_cw5\probka.hpp
+	<iostream>
+	<string>
+
+1510585687 source:d:\adam_zuk\cwiczeni5\john_cw5\loader.cpp
+	"Loader.HPP"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1510585687 d:\adam_zuk\cwiczeni5\john_cw5\loader.hpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
+1510585689 source:d:\adam_zuk\cwiczeni5\john_cw5\probka.cpp
+	"Probka.HPP"
+	<iostream>
+	<string>
+
+1510585689 source:d:\adam_zuk\cwiczeni5\john_cw5\sygnal.cpp
+	"Sygnal.HPP"
+	<iostream>
+	<string>
+
